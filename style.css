@@ -10,7 +10,7 @@ body {
   font-family: proxima-nova, sans-serif;
   font-style: normal;
   text-align: center;
-  background-color: #1b2a43;
+  background-color: #97CECC;
   font-weight: 300;
   line-height: 1.8;
   color: #ced6f3;
@@ -20,13 +20,6 @@ body {
 
 ul {
   align-items: center;
-}
-
-a {
-  text-decoration: none;
-  color: #ced6f3;
-  padding: 2rem;
-  text-align: left;
 }
 
 header {
@@ -46,7 +39,7 @@ footer {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: #0d192d;
-   color: #50514f;
+   background-color: #12908E;
+   color: #ffffff;
    text-align: center;
 }
