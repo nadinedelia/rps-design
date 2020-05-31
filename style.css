@@ -3,20 +3,6 @@
   box-sizing: border-box;
 }
 
-body {
-  padding: auto;
-  margin: auto;
-  height: 100%;
-  font-family: proxima-nova, sans-serif;
-  font-style: normal;
-  text-align: center;
-  background-color: #97CECC;
-  font-weight: 300;
-  line-height: 1.8;
-  color: #c97CECC;
-  letter-spacing: .03em;
-  font-size: 1em;
-}
 
 ul {
   align-items: center;
